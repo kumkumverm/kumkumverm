@@ -1,31 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm kumkum</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-#My Learning Repository
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumkumverm&label=Profile%20views&color=0e75b6&style=flat" alt="kumkumverm" /> </p>
 
-Welcome to my repository! This is a placeholder for my learning of Git, GitHub, and Software development.
-## About Me
-Hi, I'm Kumkum! I'm currently exploring Git and GitHub to improve my version control skills. My goal is to contribute to open-source projects and work on exciting software development projects in the future.
-## Goals for this Repository
-In this repository, I plan to:
-- Practice Git and GitHub commands.
-- Document my learning progress.
-- Experiment with small coding projects and ideas.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumkumverm" alt="kumkumverm" /></a> </p>
 
-## Why I Created This Repository
-- To document my learning journey as I grow my skills.
-- To practice using Git and GitHub effectively.
-- To prepare for larger projects and open-source contributions.
+- 💬 Ask me about **java,html,css**
 
-## How You Can Contribute
-If you have suggestions or ideas for what I should try, feel free to share! Here's how:
-1. Fork this repository.
-2. Open an issue or create a pull request with your ideas.
-3. Let's learn and grow together!
+- 📫 How to reach me **kumkumverma101@gmail.com**
 
-## License
-This repository is open for learning purposes. A specific license may be added when a project is included.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kumkum verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumkum verma" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kumkum_verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kumkum_verma" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-Thank you for visiting! Stay tuned for updates. 😊
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumkumverm&show_icons=true&locale=en&layout=compact" alt="kumkumverm" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumkumverm&show_icons=true&locale=en" alt="kumkumverm" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumkumverm&" alt="kumkumverm" /></p>
