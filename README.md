@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm kumkum</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A full stack java developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumkumverm&label=Profile%20views&color=0e75b6&style=flat" alt="kumkumverm" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumkumverm" alt="kumkumverm" /></a> </p>
 
-- 💬 Ask me about **java,html,css**
+- 💬 Ask me about **java,html,css,js,mysql**
 
 - 📫 How to reach me **kumkumverma101@gmail.com**
 
